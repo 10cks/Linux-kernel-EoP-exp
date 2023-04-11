@@ -20,20 +20,24 @@
 #### 漏洞列表
 #### #CVE　　#Description　　#Kernels  
 
-- [CVE-2023-0179](./2023/CVE-2023-0179) [nftables] [Linux 5.5 ~ 6.2-rc3]
+- [CVE-2023-0179](./2023/CVE-2023-0179) [nftables]  
+(Linux 5.5 ~ 6.2-rc3)
 
-- [CVE-2020-8835](./2020/CVE-2020-8835) [> linux 5.4 ebpf]
+- [CVE-2020-8835](./2020/CVE-2020-8835) [ebpf]  
+(> linux 5.4 )
 
-- [CVE-2019-13272](./2019/CVE-2019-13272) [Linux 4.10 < 5.1.17 PTRACE_TRACEME local root] 
+- [CVE-2019-13272](./2019/CVE-2019-13272) [PTRACE_TRACEME]  
+(Linux 4.10 < 5.1.17)
 
 - [CVE-2019-18683](./2019/CVE-2019-18683) [PoC crashing the kernel using the bug in drivers/media/platform/vivid. Turned out that this bug is exploitable. Just for fun.] 
 
-- [CVE-2019-15666](./2019/CVE-2019-15666) [CVE-2019-15666 Ubuntu / CentOS / RHEL Linux Kernel 4.4-4.18 privilege escalation] 
+- [CVE-2019-15666](./2019/CVE-2019-15666) [privilege escalation]  
+(Ubuntu / CentOS / RHEL Linux Kernel 4.4-4.18)
 
-- [CVE–2018–18955](./2018/CVE-2018-18955) [map_write() in kernel/user_namespace.c allows privilege escalation] [Linux kernel 4.15.x through 4.19.x before 4.19.2]
-- [CVE–2018–1000001] [./2018/CVE–2018–1000001)[glibc](glibc <= 2.26]  
-- [CVE–2018–5333](./2018/CVE–2018–5333) [Local root exploit for Linux RDS rds_atomic_free_op NULL pointer dereference in the rds kernel module in the Linux kernel through 4.14.13 (CVE-2018-5333).]  
-
+- [CVE–2018–18955](./2018/CVE-2018-18955) [map_write() in kernel/user_namespace.c allows privilege escalation]  
+(Linux kernel 4.15.x through 4.19.x before 4.19.2)
+- [CVE–2018–1000001] [./2018/CVE–2018–1000001)[glibc](glibc <= 2.26)
+- [CVE–2018–5333](./2018/CVE–2018–5333) [Local root exploit for Linux RDS rds_atomic_free_op NULL pointer dereference in the rds kernel module in the Linux kernel through 4.14.13 (CVE-2018-5333).]
 - [CVE-2017-1000367](./2017/CVE-2017-1000367) [Sudo] [Sudo 1.8.6p7 - 1.8.20] 
 - [CVE-2017-1000112](./2017/CVE-2017-1000112) [a memory corruption due to UFO to non-UFO path switch]  
 - [CVE-2017-16995](./2017/CVE-2017-16995) [Memory corruption caused by BPF verifier] [Linux kernel before 4.14 - 4.4]
@@ -56,8 +60,8 @@
 - [CVE-2015-7547](./2015/CVE-2015-7547)　　[glibc getaddrinfo]  
 (before Glibc 2.9)  
 
-- [CVE-2015-1328](./2015/CVE-2015-1328)　　[overlayfs]  
-(3.13, 3.16.0, 3.19.0)  
+- [CVE-2015-1328](./2015/CVE-2015-1328)　　[overlayfs]
+(3.13, 3.16.0, 3.19.0)
 
 - [CVE-2014-5284](./2014/CVE-2014-5284)　　[OSSEC]  
 (2.8)  
@@ -65,7 +69,7 @@
 - [CVE-2014-4699](./2014/CVE-2014-4699)　　[ptrace]  
 (before 3.15.4)  
 
-- [CVE-2014-4014](./2014/CVE-2014-4014)　　[Local Privilege Escalation]  
+- [CVE-2014-4014](./2014/CVE-2014-4014)　　[Local Privilege Escalation] 
 (before 3.14.8)  
 
 - [CVE-2014-3153](./2014/CVE-2014-3153)　　[futex]  
