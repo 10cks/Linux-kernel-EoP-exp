@@ -20,7 +20,7 @@
 #### 漏洞列表
 #### #CVE　　#Description　　#Kernels  
 
-- [CVE-2023-0179] [nftables] [Linux 5.5 ~ 6.2-rc3]
+- [CVE-2023-0179](./2023/CVE-2023-0179) [nftables] [Linux 5.5 ~ 6.2-rc3]
 
 - [CVE-2020-8835](./2020/CVE-2020-8835) [> linux 5.4 ebpf]
 
