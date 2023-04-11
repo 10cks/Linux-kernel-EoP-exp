@@ -26,43 +26,23 @@
 
 - [CVE-2019-13272](./2019/CVE-2019-13272) [Linux 4.10 < 5.1.17 PTRACE_TRACEME local root] 
 
-- [CVE-2019-18683](./2019/CVE-2019-18683) [ PoC crashing the kernel using the bug in drivers/media/platform/vivid. Turned out that this bug is exploitable. Just for fun.] 
+- [CVE-2019-18683](./2019/CVE-2019-18683) [PoC crashing the kernel using the bug in drivers/media/platform/vivid. Turned out that this bug is exploitable. Just for fun.] 
 
-- [CVE-2019-15666](./2019/CVE-2019-15666) [CVE-2019-15666 Ubuntu / CentOS / RHEL Linux Kernel 4.4 - 4.18 privilege escalation] 
+- [CVE-2019-15666](./2019/CVE-2019-15666) [CVE-2019-15666 Ubuntu / CentOS / RHEL Linux Kernel 4.4-4.18 privilege escalation] 
 
-- [CVE–2018–18955](./2018/CVE-2018-18955)　　[map_write() in kernel/user_namespace.c allows privilege escalation]  
-(Linux kernel 4.15.x through 4.19.x before 4.19.2)  
-
-- [CVE–2018–1000001](./2018/CVE–2018–1000001)　　[glibc]  
-(glibc <= 2.26)  
-
+- [CVE–2018–18955](./2018/CVE-2018-18955) [map_write() in kernel/user_namespace.c allows privilege escalation] [Linux kernel 4.15.x through 4.19.x before 4.19.2]
+- [CVE–2018–1000001] [./2018/CVE–2018–1000001)[glibc](glibc <= 2.26]  
 - [CVE–2018–5333](./2018/CVE–2018–5333) [Local root exploit for Linux RDS rds_atomic_free_op NULL pointer dereference in the rds kernel module in the Linux kernel through 4.14.13 (CVE-2018-5333).]  
 
-- [CVE-2017-1000367](./2017/CVE-2017-1000367)　　[Sudo]
-(Sudo 1.8.6p7 - 1.8.20)  
-
-- [CVE-2017-1000112](./2017/CVE-2017-1000112)　　[a memory corruption due to UFO to non-UFO path switch]  
-
-- [CVE-2017-16995](./2017/CVE-2017-16995)　　[Memory corruption caused by BPF verifier] 
-(Linux kernel before 4.14 - 4.4)
-
-- [CVE-2017-16939](./2017/CVE-2017-16939)　　[UAF in Netlink socket subsystem – XFRM] 
-(Linux kernel before 4.13.11)
-
-- [CVE-2017-7494](./2017/CVE-2017-7494)　　[Samba Remote execution]  
-(Samba 3.5.0-4.6.4/4.5.10/4.4.14)  
-
-- [CVE-2017-7308](./2017/CVE-2017-7308)　　[a signedness issue in AF\_PACKET sockets]  
-(Linux kernel through 4.10.6)  
-
-- [CVE-2017-6074](./2017/CVE-2017-6074)　　[a double-free in DCCP protocol]  
-(Linux kernel through 4.9.11)  
-
-- [CVE-2017-5123](./2017/CVE-2017-5123)　　['waitid()']  
-(Kernel 4.14.0-rc4+)  
-
-- [CVE-2016-9793](./2016/CVE-2016-9793)　　[a signedness issue with SO\_SNDBUFFORCE and SO\_RCVBUFFORCE socket options]  
-(Linux kernel before 4.8.14)  
+- [CVE-2017-1000367](./2017/CVE-2017-1000367) [Sudo] [Sudo 1.8.6p7 - 1.8.20] 
+- [CVE-2017-1000112](./2017/CVE-2017-1000112) [a memory corruption due to UFO to non-UFO path switch]  
+- [CVE-2017-16995](./2017/CVE-2017-16995) [Memory corruption caused by BPF verifier] [Linux kernel before 4.14 - 4.4]
+- [CVE-2017-16939](./2017/CVE-2017-16939) [UAF in Netlink socket subsystem – XFRM] [Linux kernel before 4.13.11]
+- [CVE-2017-7494](./2017/CVE-2017-7494) [Samba Remote execution] [Samba 3.5.0-4.6.4/4.5.10/4.4.14]  
+- [CVE-2017-7308](./2017/CVE-2017-7308) [a signedness issue in AF\_PACKET sockets] [Linux kernel through 4.10.6]  
+- [CVE-2017-6074](./2017/CVE-2017-6074) [a double-free in DCCP protocol] [Linux kernel through 4.9.11]  
+- [CVE-2017-5123](./2017/CVE-2017-5123) ['waitid()'] [Kernel 4.14.0-rc4+]  
+- [CVE-2016-9793](./2016/CVE-2016-9793) [a signedness issue with SO\_SNDBUFFORCE and SO\_RCVBUFFORCE socket options] [Linux kernel before 4.8.14] 
 
 - [CVE-2016-5195](./2016/CVE-2016-5195)　　[Dirty cow]  
 (Linux kernel>2.6.22 (released in 2007))  
