@@ -8,7 +8,7 @@
 
 
 
-评估系统存在可利用漏洞的脚本：
+评估Linux系统存在可利用漏洞的脚本：
 - https://github.com/10cks/linux-exploit-suggester
 
 部分漏洞复现：
