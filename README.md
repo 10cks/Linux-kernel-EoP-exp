@@ -2,12 +2,17 @@
 
 ### 简介
 
-在github项目：https://github.com/SecWiki/linux-kernel-exploits 的基础上增加了最近几年的提权漏洞Exp，漏洞相关信息的搜集在对应漏洞文件夹下的Readme.md。
+在下面github项目的基础上增加了最近几年的提权漏洞Exp，漏洞相关信息的搜集在对应漏洞文件夹下的Readme.md。
+- https://github.com/SecWiki/linux-kernel-exploits 
+- https://github.com/De4dCr0w/Linux-kernel-EoP-exp
 
-红队攻击时，可以通过脚本：https://github.com/mzet-/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh
-评估系统可能受到哪些提权漏洞的影响，然后下载提权Exp进行测试。
 
-部分漏洞的复现环境在：https://github.com/De4dCr0w/kernel-vul-env
+
+评估系统存在可利用漏洞的脚本：
+- https://github.com/10cks/linux-exploit-suggester
+
+部分漏洞复现：
+- https://github.com/10cks/kernel-vul-env
 
 
 ***
