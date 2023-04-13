@@ -2,18 +2,16 @@
 
 ### 简介
 
-在下面github项目的基础上增加了最近几年的提权漏洞Exp，漏洞相关信息的搜集在对应漏洞文件夹下的Readme.md。
+在下面github项目的基础上增加了最近几年的内核提权漏洞Exp，漏洞相关信息的搜集在对应漏洞文件夹下的Readme.md。
 - https://github.com/SecWiki/linux-kernel-exploits 
 - https://github.com/De4dCr0w/Linux-kernel-EoP-exp
-
-
 
 评估Linux系统存在可利用漏洞的脚本：
 - https://github.com/10cks/linux-exploit-suggester
 
 部分漏洞复现：
-- [kernel-vul-env](https://github.com/10cks/kernel-vul-env)
 - [LKE-docker](https://github.com/10cks/LKE-docker)
+- [kernel-vul-env](https://github.com/10cks/kernel-vul-env)
 
 ***
 
