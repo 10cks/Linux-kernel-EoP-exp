@@ -177,36 +177,8 @@
 - [CVE-2004-0077](./2004/CVE-2004-0077)　　[mremap_pte]  
 (2.4.20, 2.2.24, 2.4.25, 2.4.26, 2.4.27)  
 
-### 工具
-- [Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester)　[@PenturaLabs](https://github.com/PenturaLabs/Linux_Exploit_Suggester)  
-- [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)  
-- [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2/blob/master/linux-exploit-suggester-2.pl)  
-- [spencerdodd/kernelpop](https://github.com/spencerdodd/kernelpop)
-
-### 项目维护
-
-+ **ourren**(sina weibo <a href="http://weibo.com/codesec">@ourren</a>) 
-+ **hx**(sina weibo <a href="http://weibo.com/Hexajon">@hx</a>)
-+ **CaledoniaProject**(github <a href="https://github.com/CaledoniaProject">@CaledoniaProject</a>)
-
 ### 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
-
-### 参考链接
-
-- [kernel exploits](https://www.kernel-exploits.com/)
-- [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack/)
-- [A bunch of proof-of-concept exploits for the Linux kernel](https://github.com/xairy/kernel-exploits)  
-- [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
-
-### 转载
-
-转载请注明来自https://github.com/SecWiki/linux-kernel-exploits
-
-### 补充完善
-欢迎大家帮助补充完善　[git_man@outlook.com](git_man@outlook.com)  
-
-&copy;<a href="https://www.sec-wiki.com" target="_blank">SecWiki</a> 2017
 
 
