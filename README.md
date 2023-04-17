@@ -10,7 +10,6 @@
 - https://github.com/10cks/linux-exploit-suggester
 
 部分漏洞复现：
-- [LKE-docker](https://github.com/10cks/LKE-docker)
 - [kernel-vul-env](https://github.com/10cks/kernel-vul-env)
 
 ***
