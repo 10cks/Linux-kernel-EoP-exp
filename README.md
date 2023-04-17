@@ -18,8 +18,6 @@
 #### 漏洞列表
 #### #CVE　　#Description　　#Kernels  
 
-- [CVE-2023-2002](./2023/CVE-2023-2002) [bluetooth]  
-(Linux > v4.9)
 - [CVE-2023-0179](./2023/CVE-2023-0179) [nftables]  
 (Linux 5.5 ~ 6.2-rc3)
 
