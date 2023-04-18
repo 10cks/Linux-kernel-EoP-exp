@@ -2,7 +2,7 @@
 
 ### 简介
 
-在下面github项目的基础上增加了最近几年的内核提权漏洞Exp，漏洞相关信息的搜集在对应漏洞文件夹下的Readme.md。
+在下面github项目的基础上增加了最近几年的内核提权漏洞与应用提权漏洞exp，漏洞相关信息的搜集在对应漏洞文件夹下的README.md。
 - https://github.com/SecWiki/linux-kernel-exploits 
 - https://github.com/De4dCr0w/Linux-kernel-EoP-exp
 
