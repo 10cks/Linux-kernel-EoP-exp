@@ -16,9 +16,10 @@
 
 #### 漏洞列表
 
-- [CVE-2023-32233]() [nftables] [-]
+- [CVE-2023-32233]() [nftables] [-]   
+(Linux Kernel <= 6.3.1)
 
-- [CVE-2023-0386](./2023/CVE-2023-0386) [overlay]  
+- [CVE-2023-0386](./2023/CVE-2023-0386) [overlay]   
 (Linux 5.11 ~ 5.19 besides 5.15)
 
 - [CVE-2023-0179](./2023/CVE-2023-0179) [nftables]  
