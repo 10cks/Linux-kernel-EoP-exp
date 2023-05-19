@@ -22,8 +22,11 @@
 - [CVE-2023-0386](./2023/CVE-2023-0386) [overlay]   
 (Linux 5.11 ~ 5.19 besides 5.15)
 
-- [CVE-2023-0179](./2023/CVE-2023-0179) [nftables]  
+- [CVE-2023-0179](./2023/CVE-2023-0179) [netfilter]  
 (Linux 5.5 - 6.2-rc3)
+
+- [CVE-2022-32250](./2022/CVE-2022-32250) [netfilter]   
+(linux kernel < 5.19)
 
 - [CVE-2022-0847] [Dirty Pipe]    
 
