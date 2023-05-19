@@ -25,6 +25,9 @@
 - [CVE-2023-0179](./2023/CVE-2023-0179) [netfilter]  
 (Linux 5.5 - 6.2-rc3)
 
+- [CVE-2022-2602](./2022/CVE-2022-2602) [io_uring & unix_gc]    
+(linux kernel 5.x~6.1-rc1)
+
 - [CVE-2022-32250](./2022/CVE-2022-32250) [netfilter]   
 (linux kernel < 5.19)
 
