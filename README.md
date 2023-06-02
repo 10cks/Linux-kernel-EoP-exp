@@ -33,6 +33,8 @@
 
 - [CVE-2022-0847] [Dirty Pipe]    
 
+- [CVE-2021-4034](https://github.com/luijait/PwnKit-Exploit) [polkit] 
+
 - [CVE-2021-3490](./2021/CVE-2021-3490) [eBPF]
 
 - [CVE-2021-41073](./2021/CVE-2021-41073) [io_uring]
